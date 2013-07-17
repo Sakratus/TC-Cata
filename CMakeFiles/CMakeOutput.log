@@ -1,0 +1,213 @@
+The system is: Windows - 6.1 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft (R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: CompilerIdC, Configuration: Debug x64 ------
+1>Build started 16.7.2013 1:51:11.
+1>InitializeBuildStatus:
+1>  Creating "Debug\CompilerIdC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  CMakeCCompilerId.c
+1>Link:
+1>  CompilerIdC.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\2.8.11.2\CompilerIdC\.\CompilerIdC.exe
+1>PostBuildEvent:
+1>  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\cl.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\CompilerIdC.unsuccessfulbuild".
+1>  Touching "Debug\CompilerIdC.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.15
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj.user"
+
+The C compiler identification is MSVC, found in "D:/TwinstarCata/CataTS/CMakeFiles/2.8.11.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft (R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: CompilerIdCXX, Configuration: Debug x64 ------
+1>Build started 16.7.2013 1:51:12.
+1>InitializeBuildStatus:
+1>  Creating "Debug\CompilerIdCXX.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  CMakeCXXCompilerId.cpp
+1>Link:
+1>  CompilerIdCXX.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\2.8.11.2\CompilerIdCXX\.\CompilerIdCXX.exe
+1>PostBuildEvent:
+1>  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\cl.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\CompilerIdCXX.unsuccessfulbuild".
+1>  Touching "Debug\CompilerIdCXX.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.13
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj.user"
+
+The CXX compiler identification is MSVC, found in "D:/TwinstarCata/CataTS/CMakeFiles/2.8.11.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3670045648
+
+Microsoft (R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3670045648, Configuration: Debug x64 ------
+1>Build started 16.7.2013 1:51:14.
+1>PrepareForBuild:
+1>  Creating directory "D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec3670045648.dir\Debug\cmTryCompileExec3670045648.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.30319.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3670045648.dir\Debug\\" /Fd"D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3670045648.pdb" /Gd /TC /errorReport:prompt testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>Link:
+1>  cmTryCompileExec3670045648.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3670045648.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3670045648.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3670045648.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec3670045648.dir\Debug\cmTryCompileExec3670045648.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec3670045648.dir\Debug\cmTryCompileExec3670045648.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.64
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec937183932
+
+Microsoft (R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec937183932, Configuration: Debug x64 ------
+1>Build started 16.7.2013 1:51:16.
+1>PrepareForBuild:
+1>  Creating directory "D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec937183932.dir\Debug\cmTryCompileExec937183932.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.30319.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec937183932.dir\Debug\\" /Fd"D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec937183932.pdb" /Gd /TC /errorReport:prompt "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>Link:
+1>  cmTryCompileExec937183932.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec937183932.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec937183932.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec937183932.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec937183932.dir\Debug\cmTryCompileExec937183932.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec937183932.dir\Debug\cmTryCompileExec937183932.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.34
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec860158444
+
+Microsoft (R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec860158444, Configuration: Debug x64 ------
+1>Build started 16.7.2013 1:51:18.
+1>PrepareForBuild:
+1>  Creating directory "D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec860158444.dir\Debug\cmTryCompileExec860158444.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.30319.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec860158444.dir\Debug\\" /Fd"D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec860158444.pdb" /Gd /TP /errorReport:prompt testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>Link:
+1>  cmTryCompileExec860158444.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec860158444.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec860158444.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec860158444.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec860158444.dir\Debug\cmTryCompileExec860158444.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec860158444.dir\Debug\cmTryCompileExec860158444.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.35
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec550040569
+
+Microsoft (R) Visual Studio Version 10.0.30319.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec550040569, Configuration: Debug x64 ------
+1>Build started 16.7.2013 1:51:19.
+1>PrepareForBuild:
+1>  Creating directory "D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec550040569.dir\Debug\cmTryCompileExec550040569.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.30319.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec550040569.dir\Debug\\" /Fd"D:/TwinstarCata/CataTS/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec550040569.pdb" /Gd /TP /errorReport:prompt "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>Link:
+1>  cmTryCompileExec550040569.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec550040569.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec550040569.vcxproj -> D:\TwinstarCata\CataTS\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec550040569.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec550040569.dir\Debug\cmTryCompileExec550040569.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec550040569.dir\Debug\cmTryCompileExec550040569.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.36
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
